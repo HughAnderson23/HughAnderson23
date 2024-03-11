@@ -1,12 +1,12 @@
 # Hi there, I'm Hugh Anderson! 👋
 
-I'm passionate about [mention your primary interests or technologies here].
+I'm passionate about developeing web apps using JavaScript, React, Flask, and Python.
 
 ## About Me
 
-- 💼 Currently working on [mention your current projects or job].
-- 🌱 I'm always learning and exploring new technologies.
-- 💬 Ask me about [mention any specific expertise or interests you have].
+- 💼 Currently working on a burger builder app for users to create and order hamburgers based on user prefrence.
+- 🌱 I'm always learning and exploring new technologies to learn such as PHP, C++, Blender, Adobe Suite. 
+- 💬 Ask me about developing backend database models for APIs!
 
 ## Technologies & Tools
 
@@ -30,7 +30,6 @@ Thanks for visiting my profile! 😊
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
