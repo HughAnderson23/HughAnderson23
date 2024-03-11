@@ -12,9 +12,7 @@ I'm passionate about [mention your primary interests or technologies here].
 
 - [List some of the key technologies or tools you are proficient in.]
 
-## GitHub Stats
 
-![HughAnderson23's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HughAnderson23&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ## Connect with Me
 
