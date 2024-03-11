@@ -9,28 +9,29 @@ I'm passionate about developeing web apps using JavaScript, React, Flask, and Py
 - 💬 Ask me about developing backend database models for APIs!
 
 ## Technologies & Tools
-
-- [List some of the key technologies or tools you are proficient in.]
-
+Key technologies and tools I'm proficient in.
+- JavaScript
+- Node.js
+- React
+- Bootstrap
+- Python
+- SQL
+- SQLAlchemy
+- Flask
+- Blueprints
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Blender
 
 
 ## Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
-- Website: [Your Personal Website or Portfolio]
 
-## Fun Facts
-
-- [Share some interesting or fun facts about yourself.]
 
 Thanks for visiting my profile! 😊
-- 👋 Hi, I’m @HughAnderson23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+
 
 <!---
 HughAnderson23/HughAnderson23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
