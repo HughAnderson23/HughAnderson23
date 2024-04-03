@@ -27,7 +27,7 @@ Key technologies and tools I'm proficient in.
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [Hugh Anderson](https://www.linkedin.com/in/hughanderson2023/)
 
 
 Thanks for visiting my profile! 😊
