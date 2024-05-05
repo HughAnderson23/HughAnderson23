@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a web application for comparing driver performance for F1 Races.](https://github.com/HughAnderson23/F1-Racer-Performance)
 
-- 🌱 I’m currently learning **C++ and object tracking with tensorflow.**
+- 🌱 I’m currently learning **AWS on Udemy.**
 
 - 👨‍💻 All of my projects are available at my github [https://github.com/HughAnderson23](https://github.com/HughAnderson23)
 
