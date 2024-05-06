@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugh (Alex) Anderson</h1>
 <h3 align="center">A committed full stack web developer from Virginia.</h3>
-
+<p align="center">
 - 🔭 I’m currently working on [a web application for comparing driver performance for F1 Races.](https://f1-racing-statistics.vercel.app/)
 
 - 🌱 I’m currently learning about **Amazon Web Services.**
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at my github [https://github.com/HughAnderson23](https://github.com/HughAnderson23)
 
 - 💬 Ask me about **Python, React.js or Flask.**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/hughanderson2023" target="blank">
