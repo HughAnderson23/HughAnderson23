@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugh (Alex) Anderson</h1>
 <h3 align="center">A committed full stack web developer from Virginia.</h3>
 
-- 🔭 I’m currently working on [a web application for comparing driver performance for F1 Races.](https://github.com/HughAnderson23/F1-Racer-Performance)
+- 🔭 I’m currently working on [a web application for comparing driver performance for F1 Races.](https://f1-racing-statistics.vercel.app/)
 
 - 🌱 I’m currently learning about **Amazon Web Services.**
 
