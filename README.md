@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hugh (Alex) Anderson</h1>
 <h3 align="center">A committed full stack web developer from Virginia.</h3>
-<p align="center"> 🔭 I’m currently working on a web application for comparing driver performance for F1 Races.</p>
-<p align="center">🏎️🏎️🏎️<a>(https://f1-racing-statistics.vercel.app/)</a>🏎️🏎️🏎️</p>
 
+<p align="center"> 💬 Strong JavaScript front-end developer with proficient back-end development skills ultilizing Python and Flask frameworks. For examples, please see my Burger Builder repo featured in my profile below  💬</p>
 
-<p align="center"> 🌱 I’m currently learning about **Amazon Web Services.** </p>
+<p align="center">🏎️🏎️🏎️ I’m currently working on a <a href="https://f1-racing-statistics.vercel.app/" target="_blank" rel="noopener noreferrer">web application</a> for comparing driver performance for F1 Races. 🏎️🏎️🏎️</p>
 
-<p align="center"> 👨‍💻 See below for a list of my featured(pinned) projects [https://github.com/HughAnderson23](https://github.com/HughAnderson23) </p>
+<p align="center"> 🌱 Also, I’m learning the basics about <b>Amazon Web Services</b> in order to pass the practitioner exam. 🌱</p>
 
-- 💬 Ask me about **Python, React.js or Flask.**
+<p align="center"> 🎓📜 Here are the links to my <b><strong>developer certifications:</strong></b> 📜🎓 </p>
+<p align="center"><a href="https://certificate.4geeks.com/a3394b6733d9c7768664ba01942a44ca6e9218d0" target="_blank" rel="noopener noreferrer">4Geeks - Full Stack Web Developer</a></p>
+
+<p align="center"> 👨‍💻 See below, in my profile, for my featured projects. 👨‍💻</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
