@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hugh (Alex) Anderson</h1>
 <h3 align="center">A committed full stack web developer from Virginia.</h3>
-<p align="center"> 🔭 I’m currently working on a web application for comparing driver performance for F1 Races. <a href="https://f1-racing-statistics.vercel.app/" target="_blank" rel="noopener noreferrer">https://f1-racing-statistics.vercel.app/</a></p>
+<p align="center"> 🔭 I’m currently working on a web application for comparing driver performance for F1 Races. 
+    <a href="https://f1-racing-statistics.vercel.app/" target="_blank" rel="noopener noreferrer">https://f1-racing-statistics.vercel.app/</a>
+</p>
 
 
 <p align="center"> 🌱 I’m currently learning about **Amazon Web Services.** </p>
