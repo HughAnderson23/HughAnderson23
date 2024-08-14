@@ -3,7 +3,7 @@
 
 <p align="center"> 💬 Strong JavaScript front-end developer with proficient back-end development skills ultilizing Python and Flask frameworks. For examples, please see my Burger Builder repo featured in my profile below  💬</p>
 
-<p align="center">🏎️🏎️🏎️ I’m currently working on a <a href="https://f1-racing-statistics.vercel.app/" target="_blank" rel="noopener noreferrer">web application</a> for comparing driver performance for F1 Races. 🏎️🏎️🏎️</p>
+<p align="center">🌎🌎🌎 I’m currently working on a web application that integrates with OpenLayers API for interactive maps. 🌎🌎🌎 </p>
 
 <p align="center"> 🌱 Also, I’m learning the basics about <b>Amazon Web Services</b> in order to pass the practitioner exam. 🌱</p>
 
