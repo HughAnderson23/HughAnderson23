@@ -2,8 +2,8 @@
 <h3 align="center">A committed full stack web developer from Virginia.</h3>
 
 <p align="center"> 💬 Strong JavaScript front-end developer with proficient back-end development skills ultilizing Python and Flask frameworks. For examples, please see my Burger Builder repo featured in my profile below  💬</p>
-
-<p align="center">🌎🌎🌎 I’m currently working on a web application that integrates with THREE.js library for awesome 3D graphics and renders. 🌎🌎🌎 </p>
+<p align="center">🌎🌎🌎 I’m currently working on a web application that integrates with THREE.js library for awesome 3D graphics and renders. 🌎🌎🌎</p>
+<p align="center"><a href="https://interactive-text.vercel.app/" target="_blank" rel="noopener noreferrer">Interactive 3D Website Example</a></p>
 
 <p align="center"> 🎓📜 Here are the links to my <b><strong>developer certifications:</strong></b> 📜🎓 </p>
 <p align="center"><a href="https://certificate.4geeks.com/a3394b6733d9c7768664ba01942a44ca6e9218d0" target="_blank" rel="noopener noreferrer">4Geeks - Full Stack Web Developer</a></p>
